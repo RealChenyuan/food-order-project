@@ -1,4 +1,3 @@
-import { act } from "react-dom/test-utils";
 import CartContext from "./cart-context";
 import { useReducer } from "react";
 

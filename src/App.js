@@ -4,7 +4,6 @@ import Meals from "./components/Meals/Meals";
 import Cart from "./components/Cart/Cart";
 import CartProvider from "./store/CartProvider";
 import OrderMessage from "./components/Cart/OrderMessage";
-import Card from "./components/UI/Card";
 import OrderResult from "./components/Cart/OrderResult";
 
 function App() {
